@@ -1,1 +1,1 @@
-# Sample projects of SOAP-based and RESTful web services.
+# Sample of generated SOAP-based and RESTful web services and test cases.
